@@ -22,7 +22,7 @@
 **Предусловие**: Аккаунт ещё не зарегестрирован
 
 **Шаги тест-кейса**: 
-1. Перейти на страницу [https://www.calvinklein.co.uk/](https://www.calvinklein.co.uk/)
+1. Открыта страница [https://www.calvinklein.co.uk/](https://www.calvinklein.co.uk/)
 2. Нажать на кнопку "Sign in/Register"
 3. Нажать на кнопку "Register"
 4. Указать некорректный email, где:
@@ -59,7 +59,7 @@
 **Предусловие**: Аккаунт ещё не зарегестрирован
 
 **Шаги тест-кейса**:
-1. Перейти на страницу [https://www.calvinklein.co.uk/](https://www.calvinklein.co.uk/)
+1. Открыта страница [https://www.calvinklein.co.uk/](https://www.calvinklein.co.uk/)
 2. Нажать на кнопку "Sign in/Register"
 3. Нажать на кнопку "Register"
 4. Указать корректный email:
@@ -88,7 +88,7 @@
 **Предусловие**: Аккаунт зарегестрирован и не заполнен
 
 **Шаги тест-кейса**:
-1. Перейти на страницу [https://www.calvinklein.co.uk/](https://www.calvinklein.co.uk/)
+1. Открыта страница [https://www.calvinklein.co.uk/](https://www.calvinklein.co.uk/)
 2. Нажать на кнопку "Sign In/Register"
 3. Ввести данные: <br>
    &ensp; email: casderiopus@gmail.com <br>
@@ -115,7 +115,7 @@
 **Предусловие**: Пользователь зарегестрирован и авторизован на сайте, список пожеланий пуст
 
 **Шаги тест-кейса**:
-1. Перейти на страницу [https://www.calvinklein.co.uk/wishlist](https://www.calvinklein.co.uk/wishlist)
+1. Открыта страница [https://www.calvinklein.co.uk/wishlist](https://www.calvinklein.co.uk/wishlist)
 
    **Ожидаемый результат**:
    Иконка списка пожеланий прозрачная.
@@ -139,7 +139,7 @@
 **Предусловие**: Пользователь зарегестрирован
 
 **Шаги тест-кейса**:
-1. Перейти на страницу [https://www.calvinklein.co.uk/new-in-clothing-men](https://www.calvinklein.co.uk/new-in-clothing-men)
+1. Открыта страница [https://www.calvinklein.co.uk/new-in-clothing-men](https://www.calvinklein.co.uk/new-in-clothing-men)
 2. Находясь на странице каталога:
    - нажать на кнопку добавления товара в список пожеланий рядом с товаром
    - нажать на кнопку добавления товара в список пожеланий рядом с товаром несколько раз
@@ -165,7 +165,7 @@
 **Предусловие**: Пользователь зарегестрирован, корзина пустая
 
 **Шаги тест-кейса**:
-1. Перейти на страницу [https://www.calvinklein.co.uk/shopping-bag](https://www.calvinklein.co.uk/shopping-bag)
+1. Открыта страница [https://www.calvinklein.co.uk/shopping-bag](https://www.calvinklein.co.uk/shopping-bag)
 
    **Ожидаемый результат**:
    Отображается сообщение "Your shopping bag is empty".
@@ -189,9 +189,9 @@
 **Предусловие**: Пользователь зарегестрирован, корзина пустая
 
 **Шаги тест-кейса**:
-1. Перейти на страницу [https://www.calvinklein.co.uk/shopping-bag](https://www.calvinklein.co.uk/shopping-bag)
+1. Открыта страница [https://www.calvinklein.co.uk/shopping-bag](https://www.calvinklein.co.uk/shopping-bag)
    - Нажать в разделе рекомендаций под товаром кнопку "Add To Bag"
-2. Перейти на страницу [https://www.calvinklein.co.uk/unisex-recycled-nylon-puffer-jacket-j40j400237beh](https://www.calvinklein.co.uk/unisex-recycled-nylon-puffer-jacket-j40j400237beh)
+2. Открыта страница [https://www.calvinklein.co.uk/unisex-recycled-nylon-puffer-jacket-j40j400237beh](https://www.calvinklein.co.uk/unisex-recycled-nylon-puffer-jacket-j40j400237beh)
    - Нажать справа от товара на кнопку "Add To Bag"
 
 **Ожидаемый результат**:
@@ -215,7 +215,7 @@
 **Предусловие**: Пользователь зарегестрирован, корзина не пустая
 
 **Шаги тест-кейса**:
-1. Перейти на страницу [https://www.calvinklein.co.uk/shopping-bag](https://www.calvinklein.co.uk/shopping-bag)
+1. Открыта страница [https://www.calvinklein.co.uk/shopping-bag](https://www.calvinklein.co.uk/shopping-bag)
 2. Нажать на кнопку "Proceed To Checkout"
 3. Выбрать способ доставки "COLLECTION IN STORE"
 4. Ввести неверный почтовый код:
@@ -242,7 +242,7 @@
 **Предусловие**: Пользователь зарегестрирован, корзина не пустая
 
 **Шаги тест-кейса**:
-1. Перейти на страницу [https://www.calvinklein.co.uk/shopping-bag](https://www.calvinklein.co.uk/shopping-bag)
+1. Открыта страница [https://www.calvinklein.co.uk/shopping-bag](https://www.calvinklein.co.uk/shopping-bag)
 2. Нажать на кнопку "Proceed To Checkout"
 3. Выбрать способ доставки "COLLECTION IN STORE"
 4. Ввести корректный почтовый код:
@@ -265,7 +265,7 @@
 **Описание**: Поиск товара по имени, находясь на странице каталога
 
 **Шаги тест-кейса**:
-1. Перейти на страницу [https://www.calvinklein.co.uk/mens-straight-jeans](https://www.calvinklein.co.uk/mens-straight-jeans)
+1. Открыта страница [https://www.calvinklein.co.uk/mens-straight-jeans](https://www.calvinklein.co.uk/mens-straight-jeans)
 2. Нажать на поле поиска
 3. Ввести некорректное имя товара:
    - имя товара, содержащее кирриллические буквы
